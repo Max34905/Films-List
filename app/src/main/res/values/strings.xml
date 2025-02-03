@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MVVM and RecyclerView</string>
+    <string name="shawshank_title">The Shawshank Redemption</string>
+    <string name="shawshank_image_description">"The Shawshank Redemption" image</string>
+    <string name="shawshank_description">Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man\'s unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.</string>
+    <string name="godfather_title">The Godfather</string>
+    <string name="godfather_image_description">"The Godfather" image</string>
+    <string name="godfather_description">The Godfather "Don" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter\'s wedding. Michael, Vito\'s youngest son and a decorated WWII Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don\'s influence for the same, Vito refuses to do it. What follows is a clash between Vito\'s fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.</string>
+    <string name="batman_title">The Batman</string>
+    <string name="batman_image_description">"The Batman" image</string>
+    <string name="batman_description">Two years of nights have turned Bruce Wayne into a nocturnal animal. But as he continues to find his way as Gotham\'s dark knight Bruce is forced into a game of cat and mouse with his biggest threat so far, a manic killer known as "The Riddler" who is filled with rage and determined to expose the corrupt system whilst picking off all of Gotham\'s key political figures. Working with both established and new allies, Bruce must track down the killer and see him brought to justice, while investigating his father\'s true legacy and questioning the effect that he has had on Gotham so far as "The Batman".</string>
+    <string name="venom_title">Venom: The Last Dance</string>
+    <string name="venom_image_description">"Venom: The Last Dance" image</string>
+    <string name="venom_description">In Venom: The Last Dance, Tom Hardy returns as Venom, one of Marvel\'s greatest and most complex characters, for the final film in the trilogy. Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie\'s last dance. </string>
+    <string name="guardians_title">Guardians of the Galaxy</string>
+    <string name="guardians_image_description">Guardians of the galaxy" image</string>
+    <string name="guardians_description">After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the "Guardians of the Galaxy" to save the galaxy.</string>
+    <string name="bohemian_rhapsody_title">Bohemian Rhapsody</string>
+    <string name="bohemian_rhapsody_image_description">"Bohemian Rhapsody" image</string>
+    <string name="bohemian_rhapsody_description">Bohemian Rhapsody is a foot-stomping celebration of Queen, their music and their extraordinary lead singer Freddie Mercury. Freddie defied stereotypes and shattered convention to become one of the most beloved entertainers on the planet. The film traces the meteoric rise of the band through their iconic songs and revolutionary sound. They reach unparalleled success, but in an unexpected turn Freddie, surrounded by darker influences, shuns Queen in pursuit of his solo career. Having suffered greatly without the collaboration of Queen, Freddie manages to reunite with his bandmates just in time for Live Aid. While bravely facing a recent AIDS diagnosis, Freddie leads the band in one of the greatest performances in the history of rock music. Queen cements a legacy that continues to inspire outsiders, dreamers and music lovers to this day.</string>
+    <string name="mask_title">The Mask</string>
+    <string name="mask_image_description">"The Mask" image</string>
+    <string name="mask_description">Timid bank clerk, Stanley Ipkiss (Jim Carrey). Unfortunately, he\'s too gentle, and is unable to handle confrontations. After one of the worst days, he finds a mask which depicts Loki, the Norse god of mischief. When he puts it on, he becomes his inner, self: a cartoon wild man. After Ipkiss\'s alter ego indirectly kills the friend of small time crime boss, Dorian Tyrel (Peter Greene),he wants the green-faced goon destroyed.</string>
+    <string name="filter_switch_hint">Show only Super Hero movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

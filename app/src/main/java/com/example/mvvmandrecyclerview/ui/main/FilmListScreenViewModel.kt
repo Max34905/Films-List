@@ -12,12 +12,14 @@ import kotlinx.coroutines.flow.asStateFlow
 import javax.inject.Inject
 
 @HiltViewModel
-class MainViewModel @Inject constructor (
+class FilmListScreenViewModel @Inject constructor (
     private val repository: FilmRepository
 ) : ViewModel() {
     private val _filmListMutableStateFlow = MutableStateFlow<List<Film>>(emptyList())
 
     val filmListStateFlow: StateFlow<List<Film>> = _filmListMutableStateFlow.asStateFlow()
+    var isFiltered: Boolean = false
+        private set
 
     init {
         viewModelScope.launch {
@@ -25,5 +27,9 @@ class MainViewModel @Inject constructor (
                 _filmListMutableStateFlow.value = films
             }
         }
+    }
+
+    fun setFilterState(_isFiltered: Boolean) {
+        isFiltered = _isFiltered
     }
 }

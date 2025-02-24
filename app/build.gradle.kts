@@ -5,6 +5,7 @@ plugins {
     id("kotlin-kapt")
     id("com.google.dagger.hilt.android")
     id("androidx.navigation.safeargs.kotlin")
+    kotlin("plugin.serialization") version "2.0.21"
 }
 
 android {
@@ -72,6 +73,7 @@ dependencies {
     implementation(libs.lifecycle.viewmodel.compose)
     implementation(libs.androidx.ui.tooling)
     implementation(libs.androidx.hilt.navigation.compose)
+    implementation(libs.kotlinx.serialization.json.v180)
     kapt(libs.hilt.android.compiler)
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))
